@@ -4,29 +4,80 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#about"
+  name = "About"
+  url = " "
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "About ESMAD"
+  url = "#about"
+  weight = 11
+  parent = "About"
+
+[[main]]
+  name = "Contact Us"
+  url = "#contact"
+  weight = 12
+  parent = "About"
+
+[[main]]
+  name = "FAQ"
+  url = "#faq"
+  weight = 13
+  parent = "About"
+
+[[main]]
+  name = "People"
+  url = "#people"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Modelling"
+  url = "#modelling"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Analysis"
+  url = "#Analysis"
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Data"
+  url = "#data"
+  weight = 50
+
+[[main]]
+  name = "Resources"
+  url = " "
   weight = 60
+
+[[main]]
+  name = "Resource #1"
+  url = "#resource-1"
+  weight = 61
+  parent = "Resources"
+
+[[main]]
+  name = "Resource #2"
+  url = "#resource-2"
+  weight = 62
+  parent = "Resources"
+
+[[main]]
+  name = "Resource #3"
+  url = "#resource-3"
+  weight = 63
+  parent = "Resources"
+
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 70
+
+[[main]]
+  name = "Events"
+  url = "#events"
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
