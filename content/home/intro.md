@@ -2,14 +2,14 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "ESMAD"
-subtitle = "The Penn State Center for Earth System Modeling, Analysis, and Data"
+subtitle = "Penn State Center for Earth System Modeling, Analysis, and Data"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,18 +18,18 @@ subtitle = "The Penn State Center for Earth System Modeling, Analysis, and Data"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "Turquoise"
 
   # Background gradient.
-  gradient_start = "1E35B8"
-  gradient_end = "3f51b5"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -46,4 +46,4 @@ subtitle = "The Penn State Center for Earth System Modeling, Analysis, and Data"
  css_class = ""
 +++
 
-ESMAD seeks to integrate and enhance the existing strengths and expertise in climate and earth system research across the university which span over several academic colleges (EMS, Science, Engineering, Agriculture Sciences, and IST) and research institutes (ICDS, EESI and PSIEE).
+ESMAD seeks to be the locus for climate research and assessments across Penn State University. The Center will build collaboration between multiple disciplines and foster interaction between the Penn State research community and internal and external decision-makers and stakeholders.
