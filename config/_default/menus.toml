@@ -9,14 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "About ESMAD"
-  url = "#about"
+  name = "ESMAD Overview"
+  url = "overview"
   weight = 11
   parent = "About"
 
 [[main]]
   name = "Contact Us"
-  url = "#contact"
+  url = "/contact/"
   weight = 12
   parent = "About"
 
