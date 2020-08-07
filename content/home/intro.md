@@ -2,7 +2,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "ESMAD"
 subtitle = "Penn State Center for Earth System Modeling, Analysis, and Data"
@@ -47,3 +47,7 @@ subtitle = "Penn State Center for Earth System Modeling, Analysis, and Data"
 +++
 
 ESMAD seeks to be the locus for climate research and assessments across Penn State University. The Center will build collaboration between multiple disciplines and foster interaction between the Penn State research community and internal and external decision-makers and stakeholders.
+
+<a href="/contact/"><button type="button" class="btn btn-info btn-lg">Contact Us</button></a>
+<a href="/faq/"><button type="button" class="btn btn-info btn-lg">FAQ</button></a>
+<a href="/key-links/"><button type="button" class="btn btn-info btn-lg">Key Links</button></a>

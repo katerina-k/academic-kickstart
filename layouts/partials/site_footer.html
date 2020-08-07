@@ -1,0 +1,19 @@
+<!-- File to override original footer of the Academic site theme (found: /themes/academic/layouts/partials/site_footer.html) Overriding with a new file allows for the theme to be updated at a later time without disrupting the website.  -->
+
+<footer class="site-footer">
+  <p class="powered-by">
+    <a class="divider" href="/sitemap">Site Map</a>
+    <a class="divider" href="http://www.psu.edu/ur/legal.html" target="_blank">Privacy and Legal Statements</a>
+    <a href="http://www.psu.edu/ur/copyright.html" target="_blank">The Pennsylvania State University &copy;2020</a>
+
+    {{ if not (in (slice "docs" "updates") .Type) }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+</footer>
