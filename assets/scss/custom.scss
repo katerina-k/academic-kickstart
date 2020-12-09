@@ -1,0 +1,33 @@
+// Override this file to add your own SCSS styling.
+
+/***************************/
+/* General */
+/***************************/
+
+a.btn {
+  text-decoration: none;
+}
+
+/***************************/
+/* Accordion */
+/***************************/
+
+button.accordion-title {
+  font-size: 18px;
+}
+
+/***************************/
+/* Footer */
+/***************************/
+
+p.footer-style a {
+  font-size: medium;
+}
+
+p.powered-by a {
+  padding: 4px;
+}
+
+a.divider {
+  border-right: 1px solid gray;
+}

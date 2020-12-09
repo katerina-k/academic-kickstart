@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Diretor
+role: Director
 
 # Organizations/Affiliations
 organizations:
