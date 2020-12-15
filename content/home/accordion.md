@@ -39,7 +39,7 @@ weight = 40  # Order that this section will appear.
         </div>
         <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myAccordion">
             <div class="card-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor ut metus dapibus malesuada. Donec posuere porttitor felis vulputate feugiat. Quisque id odio vel neque sagittis molestie ac eu tortor. Donec eu sem et odio placerat faucibus in vitae ipsum. Nam ac velit ac neque cursus rutrum quis in nulla. <a href="https://www.tutorialrepublic.com/html-tutorial/" target="_blank">Learn more.</a></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor ut metus dapibus malesuada. Donec posuere porttitor felis vulputate feugiat. Quisque id odio vel neque sagittis molestie ac eu tortor. Donec eu sem et odio placerat faucibus in vitae ipsum. Nam ac velit ac neque cursus rutrum quis in nulla. <a href="/modeling">Learn more.</a></p>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@ weight = 40  # Order that this section will appear.
         </div>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#myAccordion">
             <div class="card-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor ut metus dapibus malesuada. Donec posuere porttitor felis vulputate feugiat. Quisque id odio vel neque sagittis molestie ac eu tortor. Donec eu sem et odio placerat faucibus in vitae ipsum. Nam ac velit ac neque cursus rutrum quis in nulla. <a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank">Learn more.</a></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor ut metus dapibus malesuada. Donec posuere porttitor felis vulputate feugiat. Quisque id odio vel neque sagittis molestie ac eu tortor. Donec eu sem et odio placerat faucibus in vitae ipsum. Nam ac velit ac neque cursus rutrum quis in nulla. <a href="/analysis">Learn more.</a></p>
             </div>
         </div>
     </div>
@@ -63,7 +63,7 @@ weight = 40  # Order that this section will appear.
         </div>
         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#myAccordion">
             <div class="card-body">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor ut metus dapibus malesuada. Donec posuere porttitor felis vulputate feugiat. Quisque id odio vel neque sagittis molestie ac eu tortor. Donec eu sem et odio placerat faucibus in vitae ipsum. Nam ac velit ac neque cursus rutrum quis in nulla. <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">Learn more.</a></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor ut metus dapibus malesuada. Donec posuere porttitor felis vulputate feugiat. Quisque id odio vel neque sagittis molestie ac eu tortor. Donec eu sem et odio placerat faucibus in vitae ipsum. Nam ac velit ac neque cursus rutrum quis in nulla. <a href="/data">Learn more.</a></p>
             </div>
         </div>
     </div>
