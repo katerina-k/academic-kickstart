@@ -34,7 +34,7 @@ weight = 40  # Order that this section will appear.
     <div class="card">
         <div class="card-header" id="headingOne">
             <p class="mb-0">
-                <button type="button" class="btn accordion-title" data-toggle="collapse" data-target="#collapseOne">Modeling</button>
+                <button type="button" class="btn accordion-title" data-toggle="collapse" data-target="#collapseOne">About</button>
             </p>
         </div>
         <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myAccordion">
@@ -46,7 +46,7 @@ weight = 40  # Order that this section will appear.
     <div class="card">
         <div class="card-header" id="headingTwo">
             <p class="mb-0">
-                <button type="button" class="btn accordion-title" data-toggle="collapse" data-target="#collapseTwo">Analysis</button>
+                <button type="button" class="btn accordion-title" data-toggle="collapse" data-target="#collapseTwo">Projects</button>
             </p>
         </div>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#myAccordion">
@@ -58,12 +58,24 @@ weight = 40  # Order that this section will appear.
     <div class="card">
         <div class="card-header" id="headingThree">
             <p class="mb-0">
-                <button type="button" class="btn accordion-title" data-toggle="collapse" data-target="#collapseThree">Data</button>
+                <button type="button" class="btn accordion-title" data-toggle="collapse" data-target="#collapseThree">Resources</button>
             </p>
         </div>
         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#myAccordion">
             <div class="card-body">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor ut metus dapibus malesuada. Donec posuere porttitor felis vulputate feugiat. Quisque id odio vel neque sagittis molestie ac eu tortor. Donec eu sem et odio placerat faucibus in vitae ipsum. Nam ac velit ac neque cursus rutrum quis in nulla. <a href="/data">Learn more.</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+            <p class="mb-0">
+                <button type="button" class="btn accordion-title" data-toggle="collapse" data-target="#collapseFour">People</button>
+            </p>
+        </div>
+        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#myAccordion">
+            <div class="card-body">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non dolor ut metus dapibus malesuada. Donec posuere porttitor felis vulputate feugiat. Quisque id odio vel neque sagittis molestie ac eu tortor. Donec eu sem et odio placerat faucibus in vitae ipsum. Nam ac velit ac neque cursus rutrum quis in nulla. <a href="/analysis">Learn more.</a></p>
             </div>
         </div>
     </div>
